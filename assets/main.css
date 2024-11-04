@@ -967,11 +967,20 @@ li {
 
 	}
 
+	.row-bottom-right-partners{
+		margin-right: 0px;
+	}
+
+	.row-bottom-left-partners{
+		margin-left: 0px;
+	}
+
 	.row-bottom-partners{
 		width: 390px;
 		align-items: baseline;
 		flex-direction: column;
 		margin-left: -16px;
+		padding-left: 43px;
 	}
 
 	input[type=email]{
